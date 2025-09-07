@@ -88,3 +88,8 @@ Support multiplayer (Player vs Player).
 Cross-platform compatibility (remove Windows system() dependencies).
 
 GUI version with graphics.
+
+<img width="1913" height="1069" alt="image" src="https://github.com/user-attachments/assets/0852418d-d512-4fc4-ac36-dd8ee28a0905" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/bab4a0f8-51f1-4ec4-8703-1f9ef206c98f" />
+<img width="1832" height="994" alt="image" src="https://github.com/user-attachments/assets/bd7f1abc-2e16-4f7a-ae0e-5f1120103644" />
+
